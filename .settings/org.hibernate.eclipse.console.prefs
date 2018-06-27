@@ -1,0 +1,3 @@
+default.configuration=PiJee-Ejb-Jpa
+eclipse.preferences.version=1
+hibernate3.enabled=true
